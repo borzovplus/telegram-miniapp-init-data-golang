@@ -7,7 +7,7 @@ Apps.
 ## Installation
 
 ```bash
-go get github.com/telegram-mini-apps/init-data-golang
+go get github.com/borzovplus/telegram-miniapp-init-data-golang
 ```
 
 ## Validation
@@ -23,7 +23,7 @@ import (
 	"fmt"
 	"time"
 
-	initdata "github.com/telegram-mini-apps/init-data-golang"
+	initdata "github.com/borzovplus/telegram-miniapp-init-data-golang"
 )
 
 func main() {
@@ -61,7 +61,7 @@ import (
 	"fmt"
 	"time"
 
-	initdata "github.com/telegram-mini-apps/init-data-golang"
+	initdata "github.com/borzovplus/telegram-miniapp-init-data-golang"
 )
 
 func main() {
@@ -94,7 +94,7 @@ package main
 import (
 	"fmt"
 
-	initdata "github.com/telegram-mini-apps/init-data-golang"
+	initdata "github.com/borzovplus/telegram-miniapp-init-data-golang"
 )
 
 func main() {
@@ -122,7 +122,7 @@ import (
 	"fmt"
 	"time"
 
-	initdata "github.com/telegram-mini-apps/init-data-golang"
+	initdata "github.com/borzovplus/telegram-miniapp-init-data-golang"
 )
 
 func main() {
@@ -159,4 +159,4 @@ func main() {
 ## GoDoc
 
 To see GoDoc documentation,
-visit [this link](https://pkg.go.dev/github.com/telegram-mini-apps/init-data-golang).
+visit [this link](https://pkg.go.dev/github.com/borzovplus/telegram-miniapp-init-data-golang).
